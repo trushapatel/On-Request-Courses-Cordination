@@ -14,9 +14,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
-/**
- * Created by Ankit on 11-02-2017.
- */
+
 @Controller
 @RequestMapping("/login")
 public class LoginController {
