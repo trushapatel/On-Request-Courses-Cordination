@@ -4,9 +4,6 @@ import com.ocr.domain.Course;
 
 import java.util.List;
 
-/**
- * Created by Ankit on 28-01-2017.
- */
 public interface CourseRepository {
 
     public void save(Course t);
