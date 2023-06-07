@@ -9,9 +9,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Ankit on 28-01-2017.
- */
 @Service("AddressService")
 @Transactional
 public class AddressServiceImpl implements AddressService {
