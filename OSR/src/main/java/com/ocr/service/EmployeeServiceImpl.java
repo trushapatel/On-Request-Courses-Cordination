@@ -10,9 +10,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Ankit on 28-01-2017.
- */
+
 @Service("EmployeeService")
 @Transactional
 public class EmployeeServiceImpl implements EmployeeService {
